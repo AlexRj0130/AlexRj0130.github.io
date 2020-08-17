@@ -7,7 +7,7 @@ categories: C++ Primer
 
 [TOC]
 
-![](/images/2020-08-17-09-30-25.png)
+![](_post/cpp/images/2020-08-17-09-30-25.png)
 
 # 推荐序1
 
