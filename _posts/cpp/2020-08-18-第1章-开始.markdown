@@ -2,7 +2,7 @@
 layout: post
 title:  "第一章 开始"
 date:   2020-08-18 09:36:21 +0800
-categories: C++ Primer
+categories: CPPPrimer
 ---
 
 [TOC]

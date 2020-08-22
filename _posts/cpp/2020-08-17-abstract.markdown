@@ -2,7 +2,7 @@
 layout: post
 title:  "abstract"
 date:   2020-08-17 09:19:21 +0800
-categories: C++ Primer
+categories: CPPPrimer
 ---
 
 [TOC]
