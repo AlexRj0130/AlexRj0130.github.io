@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "C++"
-date:   2020-08-17 09:19:21 +0800
+title:  "第一章 开始"
+date:   2020-08-18 09:36:21 +0800
 categories: C++ Primer
 ---
 
